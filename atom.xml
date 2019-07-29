@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://baishunjie.github.io</id>
     <title>一期一会</title>
-    <updated>2019-07-29T02:45:08.438Z</updated>
+    <updated>2019-07-29T02:59:36.167Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://baishunjie.github.io"/>
     <link rel="self" href="https://baishunjie.github.io/atom.xml"/>
@@ -10,6 +10,62 @@
     <logo>https://baishunjie.github.io/images/avatar.png</logo>
     <icon>https://baishunjie.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, 一期一会</rights>
+    <entry>
+        <title type="html"><![CDATA[中式英语之鉴]]></title>
+        <id>https://baishunjie.github.io/post/chinglish</id>
+        <link href="https://baishunjie.github.io/post/chinglish">
+        </link>
+        <updated>2019-07-29T02:56:04.000Z</updated>
+        <content type="html"><![CDATA[<h2 id="作者讯息">作者讯息</h2>
+<p><em><strong>编著</strong></em>：（美）Joan Pinkham，美国职业翻译，毕业于哥伦比亚大学巴纳德学院，并在美国著名文理学院明德学院（Middlebury College）获硕士学位，期间获得富布赖特（Fulbright）奖学金赴巴黎大学学习。毕业后在世界卫生组织联合国总部联络处纽约工作十年，担任双语秘书。之后为自由职业翻译，曾在中国的外文出版社和中央编译局从事译文修改工作，参与审校周恩来、邓小平、陈云等中国领导人的著作译文。</p>
+<p><em><strong>校</strong></em>：姜桂华，中央编译局中央文献翻译室英文处处长、译审。</p>
+<h2 id="序部分姚小平外语教学与研究主编">序（部分）—姚小平（《外语教学与研究》主编）</h2>
+<blockquote>
+<p>琼・平卡姆（Joan Pinkham）女士的这部作品搜取了大量中式英语（Chinglish）的实例，分别部居，详剖细解，将中国人写英语易犯的文体修辞毛病揭出了大半.</p>
+<p>作者在本书的第一部分<strong>多余的词</strong>里作了分析，所述分为“多余的名词和动词”、“多余的修饰词”、“同义堆叠”、“重复指称”等类。</p>
+<p>第二部分题为<strong>句子结构</strong>，从“名词肿胀症”、“代词与先行词”、“短语和子句的位置”、“垂悬成分”、“平行结构”、“逻辑连词”六个方面，分析了中式英语的构句特点。</p>
+<p>关于本书的用途，它可以作教材，供高年级学生练习汉英翻译；又可以作读本，供翻译工作者自行修习。为此，每一小节的后面都附有 20 个正误句例和 20 个待改的病句。</p>
+<p>除了提高汉英翻译的技艺，本书还有一个更广的用途，那就是帮助各行各业的中国人写好英语。因为许多中国人写英语，大概是心里先有了汉语的句子，再把它译过去，读了此书，虽然谈不上彻底摆脱汉语思维，竟也有一种豁然明亮的感觉，因此愿把它推荐给那些想在英语写作上进一大步、却苦于找不到帮手的朋友。</p>
+</blockquote>
+<h2 id="part-oneunnecessary-words多余词">Part One：Unnecessary Words（多余词）</h2>
+<p>良好的英文写作文体是怎样的？有一条广泛的共识是「concise」。William Strunk的经典小书《The Elements of Style》中说：</p>
+<blockquote>
+<p>Vigorous writing is concise. A sentence should contain no unnecessary words, a paragraph no unnecessary sentences, for the same reason that a drawing should have no unnecessary lines and a machine no unnecessary parts.</p>
+</blockquote>
+<p>几乎任何由中文译为英文的文章里，都会存在多余词，包括名词、动词、形容词、副词、介词、冠词等等。在第一节中，我们先来看最常见、最重要的「名词」和「动词」。</p>
+<h3 id="i-unnecessary-nouns-and-verbs">I. Unnecessary Nouns and Verbs</h3>
+<h4 id="nouns">Nouns</h4>
+<p>Chinglish中大多数的多余名词都不是单独出现的，而是搭配着冠词和介词等以短语的形式出现，在删去多余名词时，往往也需要删掉相应的介词和冠词。</p>
+<p>很多的多余名词很容易辨识，通常表现为「重复累赘」。下面展示一些例子，A为原句，B是建议的修改方案。</p>
+<ul>
+<li>
+<p>A：to accelerate <u>the pace of</u> economic reform</p>
+<p>B：to accelerate economic reform</p>
+<p>[“to accelerate” = “to increase the pace of”]，可能是由于中文表述常说「加快了…的步伐」。</p>
+</li>
+<li>
+<p>A：there have been good harvests <u>in agriculture</u></p>
+<p>B：there have been good harvests</p>
+<p>[harvests已经体现了农业，工业不叫harvests]</p>
+</li>
+<li>
+<p>A：living standards <u>for the people</u> in both urban and rural areas continud to rise</p>
+<p>B：living standards in both urban and rural areas continued to rise</p>
+<p>[living stanards 肯定指人们]</p>
+</li>
+<li>
+<p>A：the development of our economy <u>in the future</u> will, to a large extent, depend on…</p>
+<p>B：the development of our economy will depend to a large extent on…</p>
+<p>[will depend on已体现出将来时]</p>
+</li>
+<li>
+<p>A：we should adopt a series of measures to ensure that…</p>
+<p>B：we should adopt measures to ensure that…</p>
+<p>[复数的measures已表达了“一系列”的意思]</p>
+</li>
+</ul>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[使用Python绘制概率密度函数图像]]></title>
         <id>https://baishunjie.github.io/post/plot-with-python</id>
